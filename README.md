@@ -19,6 +19,8 @@ This project demonstrates a complete, industry-standard DevOps pipeline. I have 
 * **Linux Terminal & Nano:** Utilized for executing remote system configurations, dealing with environment permissions, and file creation.
 
 ---
+<img width="750" height="1521" alt="WhatsApp Image 2026-06-10 at 8 59 06 PM" src="https://github.com/user-attachments/assets/61a30d12-25f2-4d3c-a070-8fbba7515423" />
+---
 
 ### 📁 Project File Structure
 ```text
@@ -28,7 +30,7 @@ portfolio-website/
 ├── image_d5e76f.png
 └── Dockerfile
 
-<img width="750" height="1521" alt="WhatsApp Image 2026-06-10 at 8 59 06 PM" src="https://github.com/user-attachments/assets/61a30d12-25f2-4d3c-a070-8fbba7515423" />
+
 
 
 
