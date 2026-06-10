@@ -20,7 +20,6 @@ This project demonstrates a complete, industry-standard DevOps pipeline. I have 
 
 ---
 <img width="1599" height="769" alt="WhatsApp Image 2026-06-10 at 8 59 06 PM (1)" src="https://github.com/user-attachments/assets/c964ff44-a8b9-4c55-b50a-4295789584ca" />
-
 ---
 
 ### 📁 Project File Structure
@@ -30,8 +29,5 @@ portfolio-website/
 ├── styles.css          
 ├── image_d5e76f.png
 └── Dockerfile
-
-
-
 
 
